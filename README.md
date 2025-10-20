@@ -16,7 +16,7 @@
 ### 🛡️ 动态安全引导组件
 | 组件名称 | 核心功能 | 作者 | 组织
 |----------|----------|----------|----------|
-| [**🌿 Kelp**](https://github.com/Alibaba-AAIG/Kelp) | 动态地过滤不安全内容，并通过上下文感知机制引导模型生成走向安全路径，实现“过滤-引导”一体化防护 | 吴梦洁 | 阿里巴巴
+| [**🌿 Kelp**](https://github.com/Alibaba-AAIG/Kelp) | 动态地过滤不安全内容，并通过上下文感知机制引导模型生成走向安全路径，实现“过滤-引导”一体化防护 | 李小丹 | 阿里巴巴
 | [**🌿 Energy-Driven Steering**](https://github.com/ericjiang18/LLM_Safety_EBM_Steering)    | Energy-Driven Steering (EDS) 在推理阶段通过动态纠正模型隐藏状态，有效降低大语言模型的误拒率，同时保持高安全性，无需微调原模型。|[姜汉晨](https://ericjiang18.github.io/) | UCLA，阿里巴巴 |
 
 > 💡 **工作理念**：  
